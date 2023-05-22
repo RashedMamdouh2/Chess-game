@@ -33,10 +33,10 @@
 * Pawn promotion
 
 ## Login / sign up
-<div> 
-<img src = "https://github.com/enjyashraf18/sheet1.solutions__/assets/110485583/4539962a-52ae-462e-bb07-cbe94915caaa" width = "500">
-<img src = "https://github.com/enjyashraf18/sheet1.solutions__/assets/110485583/e5cc3974-5c5b-404e-856d-0924b02f52de" width = "500">
-</div>
+
+![Screenshot 2023-05-14 005534](https://github.com/enjyashraf18/finalproject_chessgame-team-eleven/assets/110485583/e7ad1d05-f98c-4cdf-9af9-c36b3ca3870c)
+![Screenshot 2023-05-14 005634](https://github.com/enjyashraf18/finalproject_chessgame-team-eleven/assets/110485583/52057ae6-6e45-4de6-b5f1-675871ee3089)
+
 
 ## Ready to rule the board? First move is yours!
 ![movements](https://github.com/enjyashraf18/finalproject_chessgame-team-eleven/assets/110485583/f84052c6-28a1-4570-a816-e884c9201f13)
