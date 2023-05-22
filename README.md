@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/s-rx3t9_)
 # Chess Master - Play Like a Pro 
-<img src ="https://github.com/enjyashraf18/sheet1.solutions__/assets/110485583/a5c18f00-49ad-489d-9fd2-dad47caedd1b" width = "700" >
+![Screenshot_2023-05-13_013108-removebg-preview](https://github.com/enjyashraf18/finalproject_chessgame-team-eleven/assets/110485583/dc60eb4d-3b4b-4aaf-bd6e-fddb4a042fde)
+
 
 ## A Java Implementation of the World's Most Popular Game  
  
@@ -38,13 +39,15 @@
 </div>
 
 ## Ready to rule the board? First move is yours!
-![movements](https://github.com/enjyashraf18/sheet1.solutions__/assets/110485583/4381e02c-6d0c-46b1-9ae2-188096713f5b)
+![movements](https://github.com/enjyashraf18/finalproject_chessgame-team-eleven/assets/110485583/f84052c6-28a1-4570-a816-e884c9201f13)
+
+
 
 ## Protect your kingdom, danger awaits!
-![checkmate](https://github.com/enjyashraf18/sheet1.solutions__/assets/110485583/03fcc303-5291-4396-8ee7-e7f56cc90edd)
+![checkmate](https://github.com/enjyashraf18/finalproject_chessgame-team-eleven/assets/110485583/53b9f531-a2de-4f51-8b2f-4feda1d51c61)
 
 ## Checkmate! We have a winner.
-<img src = "https://github.com/enjyashraf18/sheet1.solutions__/assets/110485583/df4e3b51-a4fa-4bcd-8852-3a2da0fb295e" width = "950" >
+![Screenshot 2023-05-14 014557](https://github.com/enjyashraf18/finalproject_chessgame-team-eleven/assets/110485583/9662e823-90f6-488b-98a1-e0137222da8b)
 
 
 ## Contribution
